@@ -1,0 +1,15 @@
+source,target,status
+/old-pricing,/pricing-2025,301
+/pricing-2025,/pricing,301
+/features/crm,/product/crm,301
+/product/crm,/product,301
+/product,/platform,301
+/blog/crm-tips,/blog/crm-basics,302
+/team,/about,301
+/about,/team,301
+/careers,/careers,301
+/signup-old,/free-trial,301
+/free-trial,https://brightcrm.io/signup,301
+/contact-us,/contact,301
+/contact-us,/support,301
+/webinar-2024,/events,301

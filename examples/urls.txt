@@ -1,0 +1,8 @@
+http://127.0.0.1:8001/old-pricing
+http://127.0.0.1:8001/features/crm
+http://127.0.0.1:8001/blog/crm-tips
+http://127.0.0.1:8001/team
+http://127.0.0.1:8001/signup-old
+http://127.0.0.1:8001/contact-us
+http://127.0.0.1:8001/webinar-2024
+http://127.0.0.1:8001/pricing
